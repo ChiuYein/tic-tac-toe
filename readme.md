@@ -2,7 +2,7 @@
 
 This is a tic-tac-toe game built using HTML, CSS and Javascript.
 This game will using color instead of using "X" "O" to represent cell's value. 
-Play the game here : https://chiuyein.github.io/tic-tac-toe.html/
+Play the game here : https://chiuyein.github.io/tic-tac-toe/
 
 Thought Process: 
     Board:
